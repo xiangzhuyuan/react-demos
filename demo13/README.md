@@ -1,4 +1,5 @@
-This demo is copied from [github.com/mhart/react-server-example](https://github.com/mhart/react-server-example), but I rewrote it with JSX syntax.
+This demo is copied from [github.com/mhart/react-server-example](https://github.com/mhart/react-server-example), 
+but I rewrote it with JSX syntax.
 
 ```bash
 # install the dependencies in demo13 directory
